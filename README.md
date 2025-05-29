@@ -1,6 +1,8 @@
 # 🧠 Brain Tumor Detection using YOLOv11 and SAMv2
 This project was completed as part of my internship at Arch Technologies. It leverages YOLOv11 for real-time tumor detection and SAMv2 (Segment Anything Model) for accurate segmentation of brain tumors in MRI images.
-🚀 Project Steps
+## Dataset
+https://universe.roboflow.com/brain-tumor-detection-wsera/tumor-detection-ko5jp/dataset/8
+# 🚀 Project Steps
 ## Data Preparation
 - MRI images collected and resized.
 - Labeled images prepared for YOLOv11 training format.
